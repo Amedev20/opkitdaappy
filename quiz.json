@@ -1,54 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of C++ with this quiz.",
+  "shortDescription": "Test your knowledge of HTML with this quiz.",
   "questions": [
     {
-      "question": "What is C++?",
-      "answers": ["Lang", "Script", "Markup"],
+      "question": "What is HTML?",
+      "answers": ["Markup", "Script", "Style"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'int'?",
-      "answers": ["Number", "String", "Char"],
+      "question": "What is <p>?",
+      "answers": ["Para", "Image", "Link"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'cout'?",
-      "answers": ["Output", "Input", "Error"],
+      "question": "What is <a>?",
+      "answers": ["Link", "Form", "Table"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'cin'?",
-      "answers": ["Input", "Output", "Error"],
+      "question": "What is <img>?",
+      "answers": ["Image", "Link", "Para"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'class'?",
-      "answers": ["OOP", "Func", "Var"],
+      "question": "What is <ul>?",
+      "answers": ["List", "Image", "Link"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'include'?",
-      "answers": ["Header", "Footer", "Body"],
+      "question": "What is <div>?",
+      "answers": ["Div", "Span", "Link"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'void'?",
-      "answers": ["No ret", "Return", "Null"],
+      "question": "What is <h1>?",
+      "answers": ["Header", "Para", "Image"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'main'?",
-      "answers": ["Entry", "Exit", "Loop"],
+      "question": "What is <br>?",
+      "answers": ["Break", "Para", "Div"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'new'?",
-      "answers": ["Alloc", "Delete", "Copy"],
+      "question": "What is <form>?",
+      "answers": ["Form", "Link", "Image"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is 'delete'?",
-      "answers": ["Free", "Alloc", "Copy"],
+      "question": "What is <table>?",
+      "answers": ["Table", "List", "Image"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <span>?",
+      "answers": ["Inline", "Block", "List"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <head>?",
+      "answers": ["Head", "Body", "Foot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <body>?",
+      "answers": ["Body", "Head", "Foot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <title>?",
+      "answers": ["Title", "Head", "Body"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <meta>?",
+      "answers": ["Meta", "Data", "Foot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <link>?",
+      "answers": ["Link", "Meta", "Data"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <style>?",
+      "answers": ["Style", "Script", "Title"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <script>?",
+      "answers": ["Script", "Style", "Head"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <li>?",
+      "answers": ["Item", "Link", "Meta"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is <!DOCTYPE>?",
+      "answers": ["Type", "Head", "Body"],
       "correctAnswerIndex": 0
     }
   ]
